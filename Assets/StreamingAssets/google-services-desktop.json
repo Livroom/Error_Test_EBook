@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365728461889",
+    "project_id": "xrpractice",
+    "storage_bucket": "xrpractice.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365728461889:android:c642e2a346acac8ff102c0",
+        "android_client_info": {
+          "package_name": "com.UnityTechnologies.com.unity.template.urpblank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Uc7fHI-qFbL-O9_7JqDbsrg34BwM6z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
